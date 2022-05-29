@@ -4,3 +4,20 @@ font-family: 'Courier New', Courier, monospace;
 
 */
 
+* {
+    background-color: black;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mainTextBox {
+    border: 1px dashed orange;
+}
+
+.randomBox {
+    border: 1px dashed orange;
+}
+
+.imageBox {
+    border: 1px dashed orange;
+}
